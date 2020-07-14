@@ -2,5 +2,5 @@
 
 void main()
 {
-  printf("huevos \n);
+  printf("huevos \n\n);
 }
